@@ -1,0 +1,19 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon server.js",
+    "prestart": "node prestart.js",
+    "test": "echo \"Error: no test specified\" ",
+    "custom1": "echo \"custom script one \"",
+    "custom2": "echo \"custom script two \"",
+    "runall": "npm-run-all --parallel test custom1  custom2"
+  },
+  "author": "sai manoj",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
