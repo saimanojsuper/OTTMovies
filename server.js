@@ -44,6 +44,7 @@ const fs = require('fs')
 
 const staticFileHandler = (req, res, filePath, contentType) => {
  // console.log('filePath ',filePath);
+  res.setHeader('Access-Control-Allow-Origin', '*');
   fs.readFile(filePath, (err, content) => {
     if (err) {
       res.writeHead(500);

@@ -1,0 +1,344 @@
+{
+  "filterLabels": [
+    {
+      "value": "Drive",
+      "key": "wheelDrive"
+    },
+    {
+      "value": "Fuel",
+      "key": "fuelType"
+    },
+    {
+      "value": "Transmission",
+      "key": "transmission"
+    }
+  ],
+  "vehicleName": "compass",
+  "comparePdf": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/Jeep_Feature_List.pdf",
+  "listOfCpos": [
+    "680-1AF-3-000",
+    "680-1AD-3-000",
+    "680-1AG-3-000",
+    "680-AAD-3-AGR",
+    "680-CAG-3-AGR",
+    "680-7AD-3-AD1",
+    "680-7AG-3-AD1",
+    "680-7BT-3-AD1",
+    "680-7AD-3-A80",
+    "680-7AG-3-A80",
+    "680-7BT-3-A80",
+    "680-SAD-3-AZ0",
+    "680-LAB-3-AZ0",
+    "680-SBT-3-AZ0"
+  ],
+  "configurations": [
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/Sport_ExoticaRed.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/Sport_ExoticaRed.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/Sport_ExoticaRed.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "Manual",
+        "wheelDrive": "4X2",
+        "fuelType": "Petrol"
+      },
+      "trim": "SPORT",
+      "descriptions": {
+        "longDescription": "SPORT 4X2",
+        "desc": "SPORT 4X2"
+      },
+      "cpos": "680-1AF-3-000"
+    },
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/Sport_ExoticaRed.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/Sport_ExoticaRed.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/Sport_ExoticaRed.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "Manual",
+        "wheelDrive": "4X2",
+        "fuelType": "Diesel"
+      },
+      "trim": "SPORT",
+      "descriptions": {
+        "longDescription": "SPORT 4X2",
+        "desc": "SPORT 4X2"
+      },
+      "cpos": "680-1AD-3-000"
+    },
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/Sport_ExoticaRed.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/Sport_ExoticaRed.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/Sport_ExoticaRed.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "DDCT",
+        "wheelDrive": "4X2",
+        "fuelType": "Petrol"
+      },
+      "trim": "SPORT",
+      "descriptions": {
+        "longDescription": "SPORT 4X2",
+        "desc": "SPORT 4X2"
+      },
+      "cpos": "680-1AG-3-000"
+    },
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/longitude.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/longitude.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/longitude.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "Manual",
+        "wheelDrive": "4X2",
+        "fuelType": "Diesel"
+      },
+      "trim": "LONGITUDE",
+      "descriptions": {
+        "longDescription": "LONGITUDE 4X2",
+        "desc": "LONGITUDE 4X2"
+      },
+      "cpos": "680-AAD-3-AGR"
+    },
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/longitude.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/longitude.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/longitude.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "DDCT",
+        "wheelDrive": "4X5",
+        "fuelType": "Petrol"
+      },
+      "trim": "LIMITED",
+      "descriptions": {
+        "longDescription": "LIMITED 4X5",
+        "desc": "LIMITED 4X5"
+      },
+      "cpos": "680-CAG-3-AGR"
+    },
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/limited.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/limited.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/limited.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "Manual",
+        "wheelDrive": "4X2",
+        "fuelType": "Diesel"
+      },
+      "trim": "LIMITED",
+      "descriptions": {
+        "longDescription": "LIMITED 4X2",
+        "desc": "LIMITED 4X2"
+      },
+      "cpos": "680-7AD-3-AD1"
+    },
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/limited.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/limited.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/limited.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "DDCT",
+        "wheelDrive": "4X2",
+        "fuelType": "Petrol"
+      },
+      "trim": "LIMITED",
+      "descriptions": {
+        "longDescription": "LIMITED 4X2",
+        "desc": "LIMITED 4X2"
+      },
+      "cpos": "680-7AG-3-AD1"
+    },
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/limited.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/limited.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/limited.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "Automatic",
+        "wheelDrive": "4X4",
+        "fuelType": "Diesel"
+      },
+      "trim": "LIMITED",
+      "descriptions": {
+        "longDescription": "LIMITED 4X4",
+        "desc": "LIMITED 4X4"
+      },
+      "cpos": "680-7BT-3-AD1"
+    },
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/80th_Anniv.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/80th_Anniv.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/80th_Anniv.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "Manual",
+        "wheelDrive": "4X2",
+        "fuelType": "Diesel"
+      },
+      "trim": "LIMITED 80TH ANNIVERSARY",
+      "descriptions": {
+        "longDescription": "LIMITED 80TH ANNIVERSARY 4X2",
+        "desc": "LIMITED 80TH ANNIVERSARY 4X2"
+      },
+      "cpos": "680-7AD-3-A80"
+    },
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/80th_Anniv.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/80th_Anniv.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/80th_Anniv.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "DDCT",
+        "wheelDrive": "4X2",
+        "fuelType": "Petrol"
+      },
+      "trim": "LIMITED 80TH ANNIVERSARY",
+      "descriptions": {
+        "longDescription": "LIMITED 80TH ANNIVERSARY 4X2",
+        "desc": "LIMITED 80TH ANNIVERSARY 4X2"
+      },
+      "cpos": "680-7AG-3-A80"
+    },
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/80th_Anniv.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/80th_Anniv.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/80th_Anniv.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "Automatic",
+        "wheelDrive": "4X4",
+        "fuelType": "Diesel"
+      },
+      "trim": "LIMITED 80TH ANNIVERSARY",
+      "descriptions": {
+        "longDescription": "LIMITED 80TH ANNIVERSARY 4X4",
+        "desc": "LIMITED 80TH ANNIVERSARY 4X4"
+      },
+      "cpos": "680-7BT-3-A80"
+    },
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/ModelS.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/ModelS.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/ModelS.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "Manual",
+        "wheelDrive": "4X2",
+        "fuelType": "Diesel"
+      },
+      "trim": "MODEL S",
+      "descriptions": {
+        "longDescription": "MODEL S 4X2",
+        "desc": "MODEL S 4X2"
+      },
+      "cpos": "680-SAD-3-AZ0"
+    },
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/ModelS.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/ModelS.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/ModelS.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "DDCT",
+        "wheelDrive": "4X2",
+        "fuelType": "Petrol"
+      },
+      "trim": "MODEL S",
+      "descriptions": {
+        "longDescription": "MODEL S 4X2",
+        "desc": "MODEL S 4X2"
+      },
+      "cpos": "680-LAB-3-AZ0"
+    },
+    {
+      "priceDisclaimer": "All prices are subject to change. Please check the latest prices and variants information with your nearest dealership before booking the car.",
+      "image": {
+        "defaultExtImage": {
+          "md": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/ModelS.jpg.img.500.jpg",
+          "sm": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/ModelS.jpg.img.300.jpg",
+          "lg": "/content/dam/cross-regional/apac/jeep/en_in/new_compass/models/ModelS.jpg.img.1000.jpg"
+        }
+      },
+      "firstStep": "powertrain",
+      "filterCombinations": {
+        "transmission": "Automatic",
+        "wheelDrive": "4X4",
+        "fuelType": "Diesel"
+      },
+      "trim": "MODEL S",
+      "descriptions": {
+        "longDescription": "MODEL S 4X4",
+        "desc": "MODEL S 4X4"
+      },
+      "cpos": "680-SBT-3-AZ0"
+    }
+  ]
+}
