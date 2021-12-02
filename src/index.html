@@ -13,27 +13,35 @@
         
         <div class="header">
         <div class="header-title">
-            <h1>OTT movies</h1>
+          <header> <h1>OTT movies</h1> </header>
         </div>
             <div class="header-items" id="myTopnav">
-              <a class="active" href="#home">Home</a>
-              <a href="#contact">OTT</a>
-              <a href="#about">Genre</a>
-              <!-- <a href="#about">Language</a> -->
+            <nav>
+              <a class="active" href="#home" onclick="defaultValue()">Home</a>
+              
+              <select class="country-drop" name="country" id="country" onchange="onCountryChange()" >Country</select>
+              <select class="platform-drop" name="platform" id="platform" onchange="onChangeValue()">Platform</select>
+              <select class="type-drop" name="type" id="type" onchange="onChangeValue()">
+                <option value="movie">Movie</option>
+                <option value="series">Series</option>
+              </select>
+              <!-- <select class="genre-drop" name="genre" id="genre">Genre</select>
               <select class="language-drop" name="Language" id="language">
                 <option value="telugu">Telugu</option>
                 <option value="hindi">Hindi</option>
                 <option value="english">English</option>
                 <option value="germen">Germen</option>
-              </select>
-              <input class="search-box" type="search" placeholder="Search movie">
+              </select> -->
+              <input class="search-box" type="search" placeholder="Search movie" id="movieName" onchange="onChangeValue()">
               <a href="javascript:void(0);" class="icon" onclick="showHideHamBurger()">
                 <i class="fa fa-bars"></i>
               </a>
             </div>
+          </nav>
           </div>
-        <div class="card-container">
-            <div class="card">
+        <main>
+        <div id='cardsContainer' class="card-container">
+            <!-- <div class="card">
               <div class="card-img">
                 <img src="https://image.tmdb.org/t/p/w300/pYziM5SEmptPW0LdNhWvjzR2zD1.jpg" alt="Image">
               </div>
@@ -117,17 +125,24 @@
                   <div class="card-rating">Imdb Rating</div>
                   <div class="card-rating-number">8.5 </div>
                 </div>
-              </div>
+              </div> -->  
         </div>
+      </main>
+        <div id="loader"></div>
         <div class="footer">
+          <footer>
             <a href="#">Home</a>
             <a href="#">About us</a>
             <a href="#">Contact</a>
             <a href="#">Terms</a>
             <a href="#">Privacy</a>
+          </footer>
         </div>
         <div id="clock"></div>
         <script type="text/javascript" src="./index.js" ></script>
-
     </body>
+    
+    <script type="text/javascript" language="Javascript" src="../public/js/changeValue.js"></script>
+    <script type="text/javascript" language="Javascript" src="../public/js/dropdown.js"></script>
+    <script type="text/javascript" language="Javascript" src="../public/js/onScroll.js"></script>
 </html>

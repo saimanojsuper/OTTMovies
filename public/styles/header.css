@@ -38,10 +38,10 @@
   }
   
   /* Style the active/current link*/
-  .header a.active {
+  /* .header a.active {
     background-color: dodgerblue;
     color: white;
-  }
+  } */
   
   /* Float the link section to the right */
   .header-items {
@@ -52,15 +52,16 @@
   .header-items .icon{
     display: none;
   }
-  .search-box {
+  .search-box .country-drop .platform-drop .type-drop {
       height: 40px;
+      width: 200px;
   }
   .language-drop{
     height: 40px;
   }
   
   /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
-  @media screen and (max-width: 550px) {
+  @media screen  and (max-width: 850px) {
     .header-items {
         display: block;
         float: left;
@@ -82,21 +83,31 @@
     }
   }
 
-  @media screen and (max-width: 550px) {
+  @media screen  and (max-width: 850px) {
 
     .header-items.responsive{
       display : grid;
       float: none;
+      width: 90%;
     }
     .header-items.responsive a {
         display: block;
+        margin: 3%;
     }
     .header-items.responsive input {
         display: block;
+        height: 40px;
+        width: 90%;
+        margin: 3%;
     }
     .header-items.responsive select {
         display: block;
+        height: 40px;
+        width:  90%;
+        margin: 3%;
     }
+
+    
     .header-items.responsive.icon{
         position: absolute;
         right: 0;
